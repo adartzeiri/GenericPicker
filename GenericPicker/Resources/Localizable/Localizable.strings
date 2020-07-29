@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  GenericPicker
+
+  Created by Adar Tzeiri on 22/07/2020.
+  Copyright © 2020 Adar Tzeiri. All rights reserved.
+*/
+
+"continue" = "המשך";
+"cancel"   = "ביטול";
